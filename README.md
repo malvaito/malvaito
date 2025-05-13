@@ -2,14 +2,15 @@
 
 <img align="right" width="200px" alt="Unicorn" src="https://media.tenor.com/IR-B2_ZcBDUAAAAi/bits-8bits.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## 📘 About Me
 
-### 👨‍💻 Hi, I’m Malvaito
-- 🎓 I’m a **Bioinformatics student** passionate about combining biology and technology through code.  
-- 💻 I work with **C#**, **C++**, and currently focus on **Java**, especially **Object-Oriented Programming (OOP)** for bioinformatics tools.  
-- 🔬 I’m interested in **scripting**, **ethical hacking**, and **database design**.  
-- 🤝 I’m open to collaborating on OOP or bioinformatics-related projects.  
-- 🎸 Outside tech, I enjoy playing the guitar and gaming — **CS:GO**, **Minecraft**, and **Roblox** are my go-tos.
+- 👨‍💻 I’m **Malvaito**, a curious mind exploring tech and science.
+- 🎓 Currently studying **Bioinformatics**, where I combine biology and code.
+- 🔧 I develop **Minecraft plugins** for versions **1.21** and **1.8.8** using Java and PaperMC.
+- 🧠 I also develop **hacks for various games**, exploring the boundaries of game logic and reverse engineering.
+- 💻 I mainly work with **Java**, **C#**, and **C++** — especially focused on **Object-Oriented Programming**.
+- 🧪 Passionate about scripting, ethical hacking, and database design.
+- 🎮 In my free time, I love playing guitar and gaming: **CS:GO**, **Minecraft**, and **Roblox**.
 
 ---
 
@@ -39,5 +40,6 @@
 
 ---
 
-## 📫 Let's connect  
+## 📫 Let's Connect
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naxhogodd@gmail.com)  
+[![Discord](https://img.shields.io/badge/Discord-Malvaito-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/malvaito)
