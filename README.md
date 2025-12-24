@@ -49,9 +49,6 @@
 
 
 <p align="center">
-  <a href="mailto:naxhogodd@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
   <a href="https://discord.com/users/malvaito">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
